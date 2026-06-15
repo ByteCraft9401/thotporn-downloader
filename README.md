@@ -77,7 +77,8 @@ Required components are included or provided depending on the distributed versio
 
 ---
 
-Supported Downloads
+# Supported Downloads
+
 Individual Photo
 
 Example:
