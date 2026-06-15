@@ -1,51 +1,18 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.Python
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.coverage
-htmlcov/
-build/
+# Builds
 dist/
-free_usage.json
-*.pyc
+build/
 
-*.egg-info/
+# Releases locales
+*.exe
 
-# Virtual environments
-.venv/
-venv/
-env/
-ENV/
+# Temporales
+*.tmp
+*.log
 
-# Windows
+# IDE
+.vscode/
+.idea/
+
+# Sistema
 Thumbs.db
 Desktop.ini
-$RECYCLE.BIN/
-*.lnk
-
-# Local runtime data
-Downloads/
-Temp/
-Logs/
-logs/
-license.txt
-free_usage.json
-backend/licenses.json
-apply_update.bat
-*.old
-
-# Local binaries and generated media
-N_m3u8DL-RE.exe
-*.mp4
-*.webp
-*.jpg
-*.jpeg
-*.png
-
-# Local backups
-backup/
-backup licencias/
