@@ -77,15 +77,12 @@ Required components are included or provided depending on the distributed versio
 
 ---
 
-# Supported Downloads
-
-## Individual Photo
+Supported Downloads
+Individual Photo
 
 Example:
 
-```text
 https://thotporn.tv/.../photo/ID
-
 Individual Video
 
 Example:
@@ -133,4 +130,3 @@ Please refer to their respective licenses.
 License
 
 See the LICENSE file for usage and distribution terms.
-
