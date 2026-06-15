@@ -84,11 +84,13 @@ Individual Photo
 Example:
 
 https://thotporn.tv/.../photo/ID
+
 Individual Video
 
 Example:
 
 https://thotporn.tv/.../video/ID
+
 Pages
 
 Download all available photos or videos from a selected page.
@@ -97,7 +99,7 @@ Profiles
 
 Process all available content from a profile.
 
-Licensing
+# Licensing
 
 THOTP Downloader includes FREE and PREMIUM features.
 
@@ -105,11 +107,11 @@ Some functionality requires a valid PREMIUM license.
 
 License information and account management are handled separately from this repository.
 
-Screenshots
+# Screenshots
 
 Application screenshots will be added here.
 
-Support
+# Support
 
 If you encounter a problem or have a question:
 
@@ -128,6 +130,6 @@ FFmpeg
 
 Please refer to their respective licenses.
 
-License
+# License
 
 See the LICENSE file for usage and distribution terms.
