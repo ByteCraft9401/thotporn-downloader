@@ -1,6 +1,7 @@
 # THOTP Downloader
 
 Windows application for downloading photos and videos from THOTP using a simple and easy-to-use graphical interface.
+![THOTP Downloader GUI](assets/screenshot.png)
 
 ## Features
 
@@ -106,10 +107,6 @@ THOTP Downloader includes FREE and PREMIUM features.
 Some functionality requires a valid PREMIUM license.
 
 License information and account management are handled separately from this repository.
-
-# Screenshots
-
-![THOTP Downloader GUI](assets/screenshot.png)
 
 # Support
 
