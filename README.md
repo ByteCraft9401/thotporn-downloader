@@ -3,6 +3,7 @@
 Windows application for downloading photos and videos from THOTP using a simple and easy-to-use graphical interface.
 ![THOTP Downloader GUI](assets/screenshot.png)
 
+
 ## Features
 
 ### Photos
