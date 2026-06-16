@@ -109,7 +109,7 @@ License information and account management are handled separately from this repo
 
 # Screenshots
 
-Application screenshots will be added here.
+![THOTP Downloader GUI](assets/screenshot.png)
 
 # Support
 
