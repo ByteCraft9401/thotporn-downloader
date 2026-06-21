@@ -1,130 +1,95 @@
-# Instalación - THOTP Downloader
+THOTP Downloader - Installation Guide
+Requirements
 
-## Requisitos
+Before installing THOTP Downloader, make sure your system meets the following requirements:
 
-Antes de instalar THOTP Downloader, verifica que tu sistema cumpla con:
+Windows 10 or later (64-bit).
+Internet connection.
+Enough storage space for downloaded files.
 
-* Windows 10 o superior (64 bits).
-* Conexión a internet.
-* Espacio suficiente para guardar las descargas.
+No Python installation or additional configuration is required.
 
-No es necesario instalar Python ni configurar dependencias adicionales.
+Download THOTP Downloader
 
----
+The official version is available in the Releases section of this repository:
 
-## Descargar THOTP Downloader
+Open the Releases page.
+Download the latest available version.
+Extract the downloaded file to a folder of your choice.
 
-La versión oficial se encuentra en la sección **Releases** de este repositorio:
+Example:
 
-1. Ingresa a la pestaña **Releases**.
-2. Descarga la versión más reciente.
-3. Extrae el archivo descargado en una carpeta de tu elección.
-
-Ejemplo:
-
-```
 THOTP Downloader/
 ├── thotp_downloader_gui.exe
-└── archivos adicionales de la versión
-```
-
----
-
-## Primer inicio
-
-1. Ejecuta:
-
-```
+└── additional files included with the release
+First Launch
+Run:
 thotp_downloader_gui.exe
-```
+Windows may display a security warning the first time you open the application.
+If this happens, verify that the file was downloaded from the official GitHub Releases page.
+Basic Usage
+Download Photos or Videos
+Copy the THOTP URL you want to download.
+Paste the URL into the application.
+Select the destination folder.
+Start the download.
 
-2. Windows puede mostrar una advertencia de seguridad la primera vez que abras el programa.
+The application will process the available content according to your current license plan.
 
-3. Si aparece, verifica que el archivo provenga de la versión oficial publicada en este repositorio.
+Download Folder
 
----
+You can select any available folder on your computer.
 
-## Uso básico
+If you do not choose a custom folder, the application will use the default download location.
 
-### Descargar fotos o videos de un perfil
+PREMIUM License
 
-1. Copia la URL del perfil.
-2. Pega la URL en el programa.
-3. Selecciona la carpeta donde quieres guardar los archivos.
-4. Inicia la descarga.
+THOTP Downloader includes FREE and PREMIUM features.
 
----
+Available features depend on your active license plan.
 
-## Seleccionar carpeta de descarga
+To activate PREMIUM:
 
-Puedes elegir cualquier carpeta disponible en tu equipo.
+Obtain a valid license.
+Enter your license information when requested.
+Restart the application if necessary.
+Updates
 
-Si no seleccionas una carpeta personalizada, el programa utilizará la ubicación predeterminada configurada por la aplicación.
+New versions will be published through:
 
----
-
-## Licencia PREMIUM
-
-THOTP Downloader incluye un sistema de licencia PREMIUM.
-
-Las funciones disponibles dependen del tipo de licencia activa.
-
-Para activar una licencia:
-
-1. Obtén una clave válida.
-2. Introduce la licencia cuando el programa lo solicite.
-3. Reinicia la aplicación si es necesario.
-
----
-
-## Actualizaciones
-
-Las nuevas versiones se publicarán en:
-
-```
 GitHub → Releases
-```
 
-Se recomienda utilizar siempre la versión más reciente para obtener mejoras y correcciones.
+It is recommended to always use the latest version to receive improvements and bug fixes.
 
----
+Troubleshooting
+The application does not start
 
-## Solución de problemas
+Try the following:
 
-### El programa no inicia
+Run the application as administrator.
+Download the latest version again.
+Check if your antivirus blocked any application files.
+Downloads fail
 
-Prueba:
+Check that:
 
-* Ejecutar como administrador.
-* Descargar nuevamente la última versión.
-* Verificar que el antivirus no haya bloqueado archivos del programa.
+The URL is valid.
+Your internet connection is working.
+The requested content is still available.
+The application shows an error
 
----
+If you find a problem:
 
-### La descarga falla
+Note the application version.
+Describe the steps that caused the issue.
+Open a GitHub Issue with the details.
 
-Comprueba:
+Including screenshots or logs can help identify the problem faster.
 
-* Que la URL sea válida.
-* Que tengas conexión a internet.
-* Que la cuenta o contenido solicitado siga disponible.
+Privacy
 
----
+THOTP Downloader only stores the data required for local operation.
 
-### El programa muestra errores
+Downloaded files remain in the folder selected by the user.
 
-Si encuentras un problema:
-
-1. Anota la versión del programa.
-2. Describe los pasos para reproducir el error.
-3. Abre un Issue en este repositorio con la información.
-
----
-
-## Privacidad
-
-THOTP Downloader guarda únicamente los datos necesarios para su funcionamiento local.
-
-Los archivos descargados permanecen en la carpeta seleccionada por el usuario.
-
-No se incluyen datos personales ni contenido descargado dentro del programa.
+The application does not include personal information or downloaded content.

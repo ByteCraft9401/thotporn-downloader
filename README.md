@@ -1,6 +1,6 @@
 # THOTP Downloader
 
-Windows application for downloading photos and videos from THOTP using a simple and easy-to-use graphical interface.
+Windows application for downloading photos and videos from ThotPorn using a simple and easy-to-use graphical interface.
 ![THOTP Downloader GUI](assets/screenshot.png)
 
 ## Features
